@@ -1,0 +1,28 @@
+{
+  "name": "bb-1",
+  "version": "0.0.1",
+  "description": "trying out parrot rolling spider with cylon",
+  "main": "index.js",
+  "dependencies": {
+    "cylon": "^1.2.0",
+    "cylon-api-socketio": "^0.4.0",
+    "cylon-ble": "^0.9.0",
+    "cylon-keyboard": "^0.16.0",
+    "cylon-rolling-spider": "^1.2.0",
+    "rolling-spider": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpshankle/rolling-spider.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpshankle/rolling-spider/issues"
+  },
+  "homepage": "https://github.com/jpshankle/rolling-spider#readme"
+}
